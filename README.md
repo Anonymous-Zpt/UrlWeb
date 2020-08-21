@@ -23,6 +23,9 @@ UrlWeb es una herramienta para camuflar enlaces utilizando tres métodos para ac
 * ` bash Urlweb `
 
 # Modo De Uso:
+Urlweb <enlace web>
+
+# Ejemplo:
 Urlweb https://github.com
 
 ![Ejemplo](https://github.com/Anonymous-Zpt/Archivos/blob/master/UrlWeb/IMG_20200821_080635.jpg) 
